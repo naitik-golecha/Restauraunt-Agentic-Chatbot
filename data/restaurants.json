@@ -1,0 +1,305 @@
+[
+    {
+      "id": 1,
+      "name": "Pasta Paradise",
+      "location": "Downtown",
+      "cuisine": "Italian",
+      "capacity": 50,
+      "opening_hours": {"open": "11:00", "close": "22:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 4, "19:00": 2, "20:00": 5},
+        "2024-04-26": {"18:00": 8, "19:00": 6, "20:00": 7}
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sushi Haven",
+      "location": "Uptown",
+      "cuisine": "Japanese",
+      "capacity": 30,
+      "opening_hours": {"open": "12:00", "close": "21:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 10, "19:00": 8, "20:00": 5},
+        "2024-04-26": {"18:00": 12, "19:00": 10, "20:00": 8}
+      }
+    },
+    {
+      "id": 3,
+      "name": "Taco Fiesta",
+      "location": "Midtown",
+      "cuisine": "Mexican",
+      "capacity": 40,
+      "opening_hours": {"open": "10:00", "close": "20:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 6, "19:00": 4, "20:00": 3},
+        "2024-04-26": {"18:00": 8, "19:00": 6, "20:00": 4}
+      }
+    },
+    {
+      "id": 4,
+      "name": "Bistro Français",
+      "location": "Downtown",
+      "cuisine": "French",
+      "capacity": 35,
+      "opening_hours": {"open": "12:00", "close": "22:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 5, "19:00": 3, "20:00": 2},
+        "2024-04-26": {"18:00": 7, "19:00": 5, "20:00": 3}
+      }
+    },
+    {
+      "id": 5,
+      "name": "Curry House",
+      "location": "Uptown",
+      "cuisine": "Indian",
+      "capacity": 45,
+      "opening_hours": {"open": "11:30", "close": "21:30"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 7, "19:00": 5, "20:00": 4},
+        "2024-04-26": {"18:00": 9, "19:00": 7, "20:00": 5}
+      }
+    },
+    {
+      "id": 6,
+      "name": "Burger Barn",
+      "location": "Midtown",
+      "cuisine": "American",
+      "capacity": 60,
+      "opening_hours": {"open": "11:00", "close": "23:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 10, "19:00": 8, "20:00": 6},
+        "2024-04-26": {"18:00": 12, "19:00": 10, "20:00": 8}
+      }
+    },
+    {
+      "id": 7,
+      "name": "Dragon Palace",
+      "location": "Downtown",
+      "cuisine": "Chinese",
+      "capacity": 50,
+      "opening_hours": {"open": "11:00", "close": "22:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 6, "19:00": 4, "20:00": 3},
+        "2024-04-26": {"18:00": 8, "19:00": 6, "20:00": 4}
+      }
+    },
+    {
+      "id": 8,
+      "name": "Mediterranean Delight",
+      "location": "Uptown",
+      "cuisine": "Mediterranean",
+      "capacity": 40,
+      "opening_hours": {"open": "12:00", "close": "21:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 5, "19:00": 3, "20:00": 2},
+        "2024-04-26": {"18:00": 7, "19:00": 5, "20:00": 3}
+      }
+    },
+    {
+      "id": 9,
+      "name": "Steakhouse Supreme",
+      "location": "Midtown",
+      "cuisine": "Steakhouse",
+      "capacity": 55,
+      "opening_hours": {"open": "17:00", "close": "23:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 8, "19:00": 6, "20:00": 4},
+        "2024-04-26": {"18:00": 10, "19:00": 8, "20:00": 6}
+      }
+    },
+    {
+      "id": 10,
+      "name": "Vegan Vibes",
+      "location": "Downtown",
+      "cuisine": "Vegan",
+      "capacity": 30,
+      "opening_hours": {"open": "10:00", "close": "20:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 4, "19:00": 2, "20:00": 1},
+        "2024-04-26": {"18:00": 6, "19:00": 4, "20:00": 2}
+      }
+    },
+    {
+      "id": 11,
+      "name": "Ramen World",
+      "location": "Uptown",
+      "cuisine": "Japanese",
+      "capacity": 25,
+      "opening_hours": {"open": "11:00", "close": "21:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 3, "19:00": 2, "20:00": 1},
+        "2024-04-26": {"18:00": 5, "19:00": 3, "20:00": 2}
+      }
+    },
+    {
+      "id": 12,
+      "name": "BBQ Pit",
+      "location": "Midtown",
+      "cuisine": "Barbecue",
+      "capacity": 50,
+      "opening_hours": {"open": "12:00", "close": "22:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 7, "19:00": 5, "20:00": 3},
+        "2024-04-26": {"18:00": 9, "19:00": 7, "20:00": 5}
+      }
+    },
+    {
+      "id": 13,
+      "name": "Seafood Cove",
+      "location": "Downtown",
+      "cuisine": "Seafood",
+      "capacity": 40,
+      "opening_hours": {"open": "11:30", "close": "21:30"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 5, "19:00": 3, "20:00": 2},
+        "2024-04-26": {"18:00": 7, "19:00": 5, "20:00": 3}
+      }
+    },
+    {
+      "id": 14,
+      "name": "Pizza Palace",
+      "location": "Uptown",
+      "cuisine": "Italian",
+      "capacity": 60,
+      "opening_hours": {"open": "11:00", "close": "23:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 10, "19:00": 8, "20:00": 6},
+        "2024-04-26": {"18:00": 12, "19:00": 10, "20:00": 8}
+      }
+    },
+    {
+      "id": 15,
+      "name": "Thai Spice",
+      "location": "Midtown",
+      "cuisine": "Thai",
+      "capacity": 35,
+      "opening_hours": {"open": "12:00", "close": "21:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 4, "19:00": 2, "20:00": 1},
+        "2024-04-26": {"18:00": 6, "19:00": 4, "20:00": 2}
+      }
+    },
+    {
+      "id": 16,
+      "name": "Greek Taverna",
+      "location": "Downtown",
+      "cuisine": "Greek",
+      "capacity": 40,
+      "opening_hours": {"open": "11:00", "close": "22:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 5, "19:00": 3, "20:00": 2},
+        "2024-04-26": {"18:00": 7, "19:00": 5, "20:00": 3}
+      }
+    },
+    {
+      "id": 17,
+      "name": "Korean BBQ House",
+      "location": "Uptown",
+      "cuisine": "Korean",
+      "capacity": 45,
+      "opening_hours": {"open": "12:00", "close": "22:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 6, "19:00": 4, "20:00": 3},
+        "2024-04-26": {"18:00": 8, "19:00": 6, "20:00": 4}
+      }
+    },
+    {
+      "id": 18,
+      "name": "Vegetarian Oasis",
+      "location": "Midtown",
+      "cuisine": "Vegetarian",
+      "capacity": 30,
+      "opening_hours": {"open": "10:00", "close": "20:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 4, "19:00": 2, "20:00": 1},
+        "2024-04-26": {"18:00": 6, "19:00": 4, "20:00": 2}
+      }
+    },
+    {
+      "id": 19,
+      "name": "Sushi Express",
+      "location": "Downtown",
+      "cuisine": "Japanese",
+      "capacity": 25,
+      "opening_hours": {"open": "11:00", "close": "21:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 3, "19:00": 2, "20:00": 1},
+        "2024-04-26": {"18:00": 5, "19:00": 3, "20:00": 2}
+      }
+    },
+    {
+      "id": 20,
+      "name": "Burrito Bar",
+      "location": "Uptown",
+      "cuisine": "Mexican",
+      "capacity": 40,
+      "opening_hours": {"open": "11:00", "close": "22:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 6, "19:00": 4, "20:00": 3},
+        "2024-04-26": {"18:00": 8, "19:00": 6, "20:00": 4}
+      }
+    },
+    {
+      "id": 21,
+      "name": "Pho Street",
+      "location": "Midtown",
+      "cuisine": "Vietnamese",
+      "capacity": 35,
+      "opening_hours": {"open": "11:00", "close": "21:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 5, "19:00": 3, "20:00": 2},
+        "2024-04-26": {"18:00": 7, "19:00": 5, "20:00": 3}
+      }
+    },
+    {
+      "id": 22,
+      "name": "Café Parisien",
+      "location": "Downtown",
+      "cuisine": "French",
+      "capacity": 30,
+      "opening_hours": {"open": "08:00", "close": "20:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 4, "19:00": 2, "20:00": 1},
+        "2024-04-26": {"18:00": 6, "19:00": 4, "20:00": 2}
+      }
+    },
+    {
+      "id": 23,
+      "name": "Tandoori Nights",
+      "location": "Uptown",
+      "cuisine": "Indian",
+      "capacity": 45,
+      "opening_hours": {"open": "12:00", "close": "22:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 7, "19:00": 5, "20:00": 3},
+        "2024-04-26": {"18:00": 9, "19:00": 7, "20:00": 5}
+      }
+    },
+    {
+      "id": 24,
+      "name": "Peking Duck House",
+      "location": "Midtown",
+      "cuisine": "Chinese",
+      "capacity": 50,
+      "opening_hours": {"open": "11:00", "close": "22:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 6, "19:00": 4, "20:00": 3},
+        "2024-04-26": {"18:00": 8, "19:00": 6, "20:00": 4}
+      }
+    },
+    {
+      "id": 25,
+      "name": "The Burger Joint",
+      "location": "Downtown",
+      "cuisine": "American",
+      "capacity": 60,
+      "opening_hours": {"open": "11:00", "close": "23:00"},
+      "available_slots": {
+        "2024-04-25": {"18:00": 10, "19:00": 8, "20:00": 6},
+        "2024-04-26": {"18:00": 12, "19:00": 10, "20:00": 8}
+      }
+    }
+   ]
+   
+   
+   
