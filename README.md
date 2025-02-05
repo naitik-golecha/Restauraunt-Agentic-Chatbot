@@ -25,16 +25,22 @@ streamlit run foodie_chatbot.py
 
 Sample interactions:
   1. Finding Restaurant
+  
   User: Find italian restraunt in downtown for 4 people at 7 pm
+  
   Bot: 1. Pasta Paradise (italian)
   in Downtown .....
   
   2. Making reservation
+  
   User: Book a table at Pasta Paradise for 4 people tonight 
+  
   Bot: Reservation Confirmed at Pasta Paradise
 
   3. General Query
+  
   User: What cuisine do you offer?
+  
   Bot: We offer Itlian, Mexican, Spanish ....
 
 
