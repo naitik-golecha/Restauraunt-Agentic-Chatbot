@@ -43,6 +43,12 @@ Sample interactions:
   
   Bot: We offer Itlian, Mexican, Spanish ....
 
+## Additional Information
+
+Download the use case documentation uploaded with the name "Use Case Documentation FoodieSpot.docx" from the main branch of the repository
+
+
+
 
 
   
