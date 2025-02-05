@@ -1,6 +1,6 @@
 # FoodieSpot Restraunt Chatbot
 
-A converstational AI agent that helps in finding restraunts and manage reservations across mutiple locations.
+A converstational AI agent that helps in finding restaurants and manage reservations across mutiple locations.
 
 ## Features
 - Find restraunt by cuisine, location or availability
