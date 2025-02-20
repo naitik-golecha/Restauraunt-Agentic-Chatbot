@@ -1,4 +1,4 @@
-# FoodieSpot Restraunt Chatbot
+# FoodieSpot Restaurants Chatbot
 
 A converstational AI agent that helps in finding restaurants and manage reservations across mutiple locations.
 
