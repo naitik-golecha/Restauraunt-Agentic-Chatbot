@@ -30,7 +30,7 @@ except FileNotFoundError:
     restaurants = []
 
 # Groq API settings
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 def query_llm(messages, tools=None):
